@@ -57,7 +57,7 @@ This project demonstrates a complete ETL (Extract, Transform, Load) pipeline for
 
 ---
 
-## Database Table: `WeatherComparison`
+## Database Table: `Weather Comparison`
 
 | Column                                   | Description                |
 |----------------------------------        |----------------------------|
