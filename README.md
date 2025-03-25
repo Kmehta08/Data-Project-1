@@ -33,7 +33,7 @@ This project demonstrates a complete ETL (Extract, Transform, Load) pipeline for
 ## Files Included in GitHub
 
 - `weather.csv` : Original weather dataset 
-- `FINAL_MIDTERM_PROJECT.ipynb`: Main Jupyter Notebook with the complete ETL pipeline
+- `FINAL_MIDTERM_PROJECT.ipynb`: Main Notebook with the complete ETL pipeline
 
 ---
 
